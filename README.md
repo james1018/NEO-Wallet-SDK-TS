@@ -15,17 +15,14 @@ tsc
 # API
 在sdk.ts 文件中，包含常用的api:
 初始化
-
-创建账户
-
-使用文件登录
-
-使用wif登录
-使用nep2登录
-从NEP5合约中查询
-获取NEO和GAS余额
-获取当前账户地址
-调用NEP5合约的transfer接口交易
+创建账户 
+使用文件登录 
+使用wif登录 
+使用nep2登录 
+从NEP5合约中查询 
+获取NEO和GAS余额 
+获取当前账户地址 
+调用NEP5合约的transfer接口交易 
 全局资产交易，如NEO，GAS
 
 用户可以自定制API
